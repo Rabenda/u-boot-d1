@@ -11,6 +11,7 @@ dtb-$(CONFIG_TARGET_SUNXI) += sun20i-d1-nezha.dtb
 dtb-$(CONFIG_TARGET_SUNXI) += sun20i-d1-nezha-512m.dtb
 dtb-$(CONFIG_TARGET_SUNXI) += sun20i-d1-nezha-1g.dtb
 dtb-$(CONFIG_TARGET_SUNXI) += sun20i-d1-nezha-2g.dtb
+dtb-$(CONFIG_TARGET_SUNXI) += sun20i-d1-mangopi-mq-pro-uboot.dtb
 
 targets += $(dtb-y)
 
